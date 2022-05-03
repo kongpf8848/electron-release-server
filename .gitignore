@@ -39,7 +39,6 @@
 #
 ################################################
 
-config/local.js
 database.json
 
 
@@ -118,3 +117,4 @@ npm-debug.log
 nbproject
 .idea
 .node_history
+/sails_pg_session/
